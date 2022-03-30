@@ -1,0 +1,13 @@
+:root {
+  /* Font families */
+  --ff: 'Manrope', sans-serif;
+
+  /* Font Sizes */
+  --fs-base: 0.8125rem;
+  --fs-big: 1.25rem;
+
+  /* Colors */
+  --clr-dark-gray: #48556a;
+  --clr-gray: #6e8098;
+  --clr-light-gray: #9daec2;
+}
