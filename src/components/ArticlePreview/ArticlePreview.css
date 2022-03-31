@@ -64,6 +64,7 @@
 }
 
 .article-preview__button {
+  background-color: #ecf2f8;
   margin-left: auto;
   border: none;
   border-radius: 100%;
@@ -74,6 +75,10 @@
   justify-content: center;
   cursor: pointer;
   padding: 0;
+}
+
+.article-preview__button:hover {
+  background-color: #d8e0e7;
 }
 
 @media screen and (max-width: 540px) {
