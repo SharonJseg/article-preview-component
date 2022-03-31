@@ -1,8 +1,5 @@
 import React from 'react';
 import './Share.css';
-import fbIcon from '../../images/icon-facebook.svg';
-import twIcon from '../../images/icon-twitter.svg';
-import pinIcon from '../../images/icon-pinterest.svg';
 import Icon from '../Icon/Icon';
 
 const Share = ({ isClicked, onClose }) => {

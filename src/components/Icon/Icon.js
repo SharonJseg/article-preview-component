@@ -12,6 +12,8 @@ const Icon = (props) => {
       return <Twitter {...props} />;
     case 'pinterest':
       return <Pinterest {...props} />;
+    default:
+      return <div />;
   }
 };
 
